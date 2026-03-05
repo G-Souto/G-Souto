@@ -75,17 +75,6 @@ Busco minha primeira oportunidade como **Desenvolvedor Front-End, Back-End ou Fu
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
----
-## 🧠 Projetos em Destaque
-
-🔹 Aplicações Front-End com React e TypeScript  
-🔹 Projetos com Next.js  
-🔹 APIs REST com Node.js  
-🔹 Projetos acadêmicos com foco em energia renovável  
-
-Estou constantemente evoluindo meus repositórios para refletir boas práticas de mercado.
-
----
 
 ## 🎯 Objetivo Profissional
 
@@ -104,6 +93,3 @@ Atuar como Desenvolvedor Júnior, contribuindo com:
 📩 Email: gsmelo2804@gmail.com
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/gustavo-souto-melo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqXNQEMV4TTavbWE2EQOt3A%3D%3D">linkedin.com/in/gustavo-souto-melo</a>
 
----
-
-⭐ Se você é recrutador ou desenvolvedor e chegou até aqui, será um prazer conversar!
