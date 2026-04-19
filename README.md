@@ -53,9 +53,9 @@ Busco minha primeira oportunidade como **Desenvolvedor Front-End, Back-End ou Fu
 
   <p align="center">
   <img height="170em"
-       src="https://gh-readme-stats.vercel.app/api?username=Gustavo-Souto-de-Melo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+       src="https://gh-readme-stats.vercel.app/api?username=G-Souto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="170em"
-       src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Souto-de-Melo&layout=compact&theme=tokyonight" />
+       src="https://gh-readme-stats.vercel.app/api/top-langs/?username=G-Souto&layout=compact&theme=tokyonight" />
 </p>
 
 ---
