@@ -110,15 +110,6 @@ Projeto desenvolvido durante minha formação acadêmica, aplicando conceitos de
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/G-Souto/G-Souto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
 
 # 💡 O que estou buscando
 
